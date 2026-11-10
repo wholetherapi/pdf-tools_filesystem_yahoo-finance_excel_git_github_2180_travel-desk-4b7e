@@ -1,0 +1,6 @@
+filename,vendor,original_amount,original_currency,date,exchange_rate,amount_in_cny
+claim_0412_lufthansa.pdf,Lufthansa,1260.00,EUR,2025-12-29,8.2731,10424.11
+claim_0418_emirates.pdf,Emirates,2380.00,USD,2026-11-02,6.6610,15853.18
+claim_0423_singapore.pdf,Singapore Airlines,980.00,SGD,2026-10-08,5.2387,5133.97
+claim_0427_qantas.pdf,Qantas,1450.00,AUD,2026-10-21,4.6787,6784.06
+claim_0505_airfrance.pdf,Air France,860.00,EUR,2026-10-30,7.4485,6405.67
