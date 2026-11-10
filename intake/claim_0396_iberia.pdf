@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 829 >>
+stream
+BT
+/F1 10 Tf
+72 790 Td
+14 TL
+(WAYFARER TRAVEL DESK) Tj
+T*
+(ELECTRONIC ITINERARY / FARE RECEIPT) Tj
+T*
+(------------------------------------------------------------) Tj
+T*
+(PASSENGER: Lucia Moreno) Tj
+T*
+(TICKET NUMBER: 075-6623018495) Tj
+T*
+(ISSUING AIRLINE: Iberia) Tj
+T*
+(AIRLINE CODE: IB) Tj
+T*
+(DATE OF ISSUE: 2026-10-06) Tj
+T*
+(------------------------------------------------------------) Tj
+T*
+(ROUTING: Madrid \(MAD\) - London \(LHR\)) Tj
+T*
+(FLIGHT: IB 317          CABIN: Business) Tj
+T*
+(DEPARTURE: 18OCT  15:45) Tj
+T*
+(------------------------------------------------------------) Tj
+T*
+(FARE: EUR 610.00) Tj
+T*
+(TAX: EUR 88.00) Tj
+T*
+(TOTAL: EUR 698.00) Tj
+T*
+(------------------------------------------------------------) Tj
+T*
+(Issued by Wayfarer Travel Desk on behalf of the corporate travel programme.) Tj
+T*
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1190
+%%EOF
